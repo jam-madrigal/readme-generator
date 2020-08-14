@@ -15,7 +15,7 @@ function generateMarkdown(data) {
 - [Contributors](#contributors)
 
 
-# Desription
+# Description
 ${data.description}
 
 # Usage

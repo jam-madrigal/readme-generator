@@ -1,8 +1,10 @@
 
-  # A cli application that guides the user into filling out prompts that then create a readme.md file based on use inputs.
+# Good README Generator
+---
+##A cli application to help you create a readme.
 
 # Table of contents
-- [Title](#A cli application that guides the user into filling out prompts that then create a readme.md file based on use inputs.)
+- [Title](#Good README Generator)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,23 +14,23 @@
 
 
 # Desription
-Simply clone this repository and run index.js in node.
+A cli application to help you create a readme.
 
 # Usage
-Eclipse Public License 1.0 (EPL-1.0)
+Use this file to get started with a good readme template.
 
 # Installation
-Use this application to help you get started with a good readme.md file for your projects.
+Simply clone this repository and run index.js in node
 
 # Usage
-Eclipse Public License 1.0 (EPL-1.0)
+Use this file to get started with a good readme template.
 
 # Tests
-
+I gave it a good sniff.
 
 # Questions
-
+Forward all questions to jam.madrigal@gmail.com
 
 # Contributors
-
+Me myself and i
 
