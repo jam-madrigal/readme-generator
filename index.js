@@ -11,7 +11,9 @@ const questions = [
     "Choose a license for your project.",
     "List your project contributors",
     "List any tests for your project.",
-    "Write how to ask questions about the project (Maybe list contact information).",
+    "Write how to ask questions about the project.",
+    "Enter your github username.",
+    "Enter your contact email.",
 ];
 
 // function to write README file
@@ -81,6 +83,18 @@ function init() {
         type: "input",
         message: `${questions[7]}`,
         name: "questions"
+        },
+
+        {
+        type: "input",
+        message: `${questions[8]}`,
+        name: "username"
+        },
+
+        {
+        type: "input",
+        message: `${questions[9]}`,
+        name: "email"
         },
 
     ]).then((answers) => {
