@@ -1,5 +1,5 @@
 
-[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)]
 # 
 ---
 
@@ -26,7 +26,7 @@
 
 
 # License
-Eclipse Public License 1.0 (EPL-1.0)
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 # Tests
 
