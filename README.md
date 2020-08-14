@@ -1,5 +1,5 @@
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)]
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)
 # Good README Generator
 ---
 
@@ -38,7 +38,7 @@ To contribute to this project, feel free to suggest more functionality or advanc
 # Questions
 Inquire about this project via github or email.
 
-- Creator information
+## Creator information
 ---
 Github profile: https://github.com/jam-madrigal
 Contact email: jam.madrigal@outlook.com

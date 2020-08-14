@@ -68,7 +68,7 @@ ${data.contributors}
 # Questions
 ${data.questions}
 
-- Creator information
+## Creator information
 ---
 Github profile: https://github.com/${data.username}
 Contact email: ${data.email}
