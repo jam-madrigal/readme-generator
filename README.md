@@ -12,7 +12,7 @@
 - [Contributors](#contributors)
 
 
-# Desription
+# Description
 A cli application to help you create a readme.
 
 # Usage
