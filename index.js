@@ -62,13 +62,13 @@ function init() {
         {
         type: "input",
         message: `${questions[6]}`,
-        name: "contributors"
+        name: "tests"
         },
 
         {
         type: "input",
         message: `${questions[7]}`,
-        name: "contributors"
+        name: "questions"
         },
 
     ])
