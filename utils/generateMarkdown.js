@@ -3,10 +3,8 @@ function generateMarkdown(data) {
   return `
 # ${data.title}
 ---
-## ${data.description}
 
 # Table of contents
-- [Title](#${data.title})
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
