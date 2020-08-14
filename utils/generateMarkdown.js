@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
-  let badge = ``;
+  let badge = `` ;
   if (data.license === "Eclipse Public License 1.0 (EPL-1.0)") {
       badge = `[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)`
   }
