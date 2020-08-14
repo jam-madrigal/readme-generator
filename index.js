@@ -31,32 +31,32 @@ function init() {
         .prompt([
         {
         type: "input",
-        message: `${questions[1]}`,
+        message: `${questions[0]}`,
         name: "title"
         },
 
         {
         type: "input",
-        message: `${questions[2]}`,
+        message: `${questions[1]}`,
         name: "description"
         },
 
         {
         type: "input",
-        message: `${questions[3]}`,
+        message: `${questions[2]}`,
         name: "installation"
         },
 
         {
             type: "input",
-            message: `${questions[4]}`,
+            message: `${questions[3]}`,
             name: "usage"
             },
 
         {
         type: "list",
-        message: `${questions[5]}`,
-        name: "usage",
+        message: `${questions[4]}`,
+        name: "license",
         choices: 
             [
             "Eclipse Public License 1.0 (EPL-1.0)",
@@ -67,19 +67,19 @@ function init() {
 
         {
         type: "input",
-        message: `${questions[6]}`,
+        message: `${questions[5]}`,
         name: "contributors"
         },
 
         {
         type: "input",
-        message: `${questions[7]}`,
+        message: `${questions[6]}`,
         name: "tests"
         },
 
         {
         type: "input",
-        message: `${questions[8]}`,
+        message: `${questions[7]}`,
         name: "questions"
         },
 
