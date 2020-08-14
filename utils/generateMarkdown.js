@@ -23,7 +23,7 @@ function generateMarkdown(data) {
   else {
 
     badge = `[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)]`
-    licenseInfo = `This proejct is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Read more at https://creativecommons.org/licenses/by-nc-nd/4.0/`
+    licenseInfo = `This project is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0). Read more at https://creativecommons.org/licenses/by-nc-nd/4.0/`
 
   }
 
