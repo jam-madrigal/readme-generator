@@ -1,7 +1,7 @@
 
 # Good README Generator
 ---
-##A cli application to help you create a readme.
+## A cli application to help you create a readme.
 
 # Table of contents
 - [Title](#Good README Generator)
@@ -29,7 +29,7 @@ Use this file to get started with a good readme template.
 I gave it a good sniff.
 
 # Questions
-Forward all questions to jam.madrigal@gmail.com
+Forward all questions to jam.madrigal@.com
 
 # Contributors
 Me myself and i
