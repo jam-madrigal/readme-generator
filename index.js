@@ -9,7 +9,7 @@ const questions = [
     "Enter installation information.",
     "Enter usage information.",
     "Choose a license for your project.",
-    "List your project contributors",
+    "List contribution information",
     "List any tests for your project.",
     "Write how to ask questions about the project.",
     "Enter your github username.",

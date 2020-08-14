@@ -1,35 +1,45 @@
 
-# Good README Generator
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0);
+# 
 ---
-## A cli application to help you create a readme.
 
 # Table of contents
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
+- [License](#license)
 - [Tests](#tests)
+- [Contributing](#Contributing)
 - [Questions](#questions)
-- [Contributors](#contributors)
 
 
 # Description
-A cli application to help you create a readme.
+
 
 # Usage
-Use this file to get started with a good readme template.
+
 
 # Installation
-Simply clone this repository and run index.js in node
+
 
 # Usage
-Use this file to get started with a good readme template.
+
+
+# License
+Eclipse Public License 1.0 (EPL-1.0)
 
 # Tests
-I gave it a good sniff.
+
+
+# Contributing
+
 
 # Questions
-Forward all questions to jam.madrigal@.com
 
-# Contributors
-Me myself and i
+
+- Creator information
+---
+Github profile: https://github.com/
+Contact email: 
+
 

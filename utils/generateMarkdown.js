@@ -1,6 +1,11 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  let badge = ``;
+  if (data.license === "Eclipse Public License 1.0 (EPL-1.0)") {
+      badge = `[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)`
+  }
   return `
+${badge};
 # ${data.title}
 ---
 
@@ -10,8 +15,8 @@ function generateMarkdown(data) {
 - [Usage](#usage)
 - [License](#license)
 - [Tests](#tests)
-- [Questions](#questions)
 - [Contributing](#Contributing)
+- [Questions](#questions)
 
 
 # Description
@@ -32,15 +37,17 @@ ${data.license}
 # Tests
 ${data.tests}
 
+# Contributing
+${data.contributors}
+
 # Questions
 ${data.questions}
 
 - Creator information
+---
 Github profile: https://github.com/${data.username}
 Contact email: ${data.email}
 
-# Contributing
-${data.contributors}
 
 `;
 }
