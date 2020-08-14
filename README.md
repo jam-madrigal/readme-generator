@@ -15,7 +15,7 @@
 
 # Description
 This is a cli application that will take in a user's answers to prompts and use those to create a readme that can be exported to any project and built further.
-![Video example](./assets/2020-08-14_15-55-36.mp4)
+![Demo Animation](./assets/demo.gif?raw=true)
 
 # Usage
 Use this application to help you write better READMEs.
