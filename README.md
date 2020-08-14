@@ -40,8 +40,7 @@ Inquire about this project via github or email.
 
 ## Creator information
 ---
-Github profile: https://github.com/jam-madrigal
-
+Github profile: https://github.com/jam-madrigal  
 Contact email: jam.madrigal@outlook.com
 
 
