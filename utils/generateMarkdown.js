@@ -70,7 +70,7 @@ ${data.questions}
 
 ## Creator information
 ---
-Github profile: https://github.com/${data.username}
+Github profile: https://github.com/${data.username}  
 Contact email: ${data.email}
 
 
