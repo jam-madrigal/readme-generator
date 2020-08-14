@@ -4,7 +4,6 @@
 ## A cli application to help you create a readme.
 
 # Table of contents
-- [Title](#Good README Generator)
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
