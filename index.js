@@ -48,8 +48,14 @@ function init() {
         },
 
         {
+            type: "input",
+            message: `${questions[4]}`,
+            name: "usage"
+            },
+
+        {
         type: "list",
-        message: `${questions[4]}`,
+        message: `${questions[5]}`,
         name: "usage",
         choices: 
             [
@@ -61,19 +67,19 @@ function init() {
 
         {
         type: "input",
-        message: `${questions[5]}`,
+        message: `${questions[6]}`,
         name: "contributors"
         },
 
         {
         type: "input",
-        message: `${questions[6]}`,
+        message: `${questions[7]}`,
         name: "tests"
         },
 
         {
         type: "input",
-        message: `${questions[7]}`,
+        message: `${questions[8]}`,
         name: "questions"
         },
 
