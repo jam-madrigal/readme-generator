@@ -44,4 +44,3 @@ Inquire about this project via github or email.
 Github profile: https://github.com/jam-madrigal  
 Contact email: jam.madrigal@outlook.com
 
-
