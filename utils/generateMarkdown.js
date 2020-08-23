@@ -7,7 +7,7 @@ function generateMarkdown(data) {
 
   if (data.license === "Eclipse Public License 1.0 (EPL-1.0)") {
 
-      badge = `![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)`;
+      badge = `![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)(https://opensource.org/licenses/EPL-1.0)`;
       licenseInfo = `This project is licensed under Eclipse Public License 1.0. Read more at https://opensource.org/licenses/EPL-1.0`;
 
   }
